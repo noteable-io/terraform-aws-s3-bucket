@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+### [2.15.0] (2022-03-04)
+
+* Codeowners file.
+
 ### [2.14.1](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket/compare/v2.14.0...v2.14.1) (2022-02-10)
 
 
